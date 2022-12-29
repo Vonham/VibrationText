@@ -2,24 +2,23 @@
   "VTYPE":[
 	{
 		"name":"PERFECT",
-		"TIME": [0.0,0.2],
-		"INTENSITY": [0.8,0.8],
-	  	"SHARPNESS":[0.8,0.8],
-		"DURATION": [0.1,0.1]
+		"TIME": [0.0],
+		"INTENSITY": [1.0],
+	  	"SHARPNESS":[1.0],
+		"DURATION": [0.08]
 	},
   	{
 	    "name":"GREAT",
 		"TIME": [0],
-		"INTENSITY": [0.4],
-	  	"SHARPNESS":[0.4],
+		"INTENSITY": [0.6],
+	  	"SHARPNESS":[0.6],
 		"DURATION": [0.02]
 	},
 	{
 	    "name":"GOOD",
-		"TIME": [0],
-		"INTENSITY": [0.4],
-	  	  	"SHARPNESS":[0.4],
-
+		"TIME": [0]
+		"INTENSITY": [0.6],
+	  	"SHARPNESS":[0.6],
 		"DURATION": [0.02]
 	},
 	{
