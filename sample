@@ -3,8 +3,8 @@
 	{
 		"name":		"PERFECT",
 		"TIME": 	[	0.0,0.08	],
-		"INTENSITY": 	[	0.5,1.0	],
-	  	"SHARPNESS":	[	0.5,1.0	],
+		"INTENSITY": 	[	1.0,0.5	],
+	  	"SHARPNESS":	[	1.0,0.5 ],
 		"DURATION": 	[	0.08,0.08	]
 	},
   	{
