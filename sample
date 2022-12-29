@@ -3,7 +3,7 @@
 	{
 		"name":"PERFECT",
 		"TIME": [0,0.2],
-		"INTENSITY": [0,0.2],
+		"INTENSITY": [0.8,0.5],
 		"DURATION": [0.02,0.02]
 	},
   	{
@@ -22,7 +22,7 @@
 	    "name":"MISS",
 		"TIME": [0],
 		"INTENSITY": [0.7],
-		"DURATION": [0.02]
+		"DURATION": [0.5]
 	},
 	{
 	    "name":"SELECTION",
