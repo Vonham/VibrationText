@@ -8,9 +8,9 @@
 	},
   	{
 	    "name":"GREAT",
-		"TIME": [0,],
-		"INTENSITY": [0.4,],
-		"DURATION": [0.02,]
+		"TIME": [0.0],
+		"INTENSITY": [0.4],
+		"DURATION": [0.02]
 	},
 	{
 	    "name":"GOOD",
