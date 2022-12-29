@@ -2,10 +2,10 @@
   "VTYPE":[
 	{
 		"name":		"PERFECT",
-		"TIME": 	[	0.0	],
-		"INTENSITY": 	[	1.0	],
-	  	"SHARPNESS":	[	1.0	],
-		"DURATION": 	[	0.08	]
+		"TIME": 	[	0.0,0.08	],
+		"INTENSITY": 	[	0.5,1.0	],
+	  	"SHARPNESS":	[	0.5,1.0	],
+		"DURATION": 	[	0.08,0.08	]
 	},
   	{
 	    	"name":		"GREAT",
