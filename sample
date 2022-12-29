@@ -16,7 +16,7 @@
 	},
 	{
 	    "name":"GOOD",
-		"TIME": [0]
+		"TIME": [0],
 		"INTENSITY": [0.6],
 	  	"SHARPNESS":[0.6],
 		"DURATION": [0.02]
