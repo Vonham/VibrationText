@@ -1,0 +1,72 @@
+{
+  "VTYPE":[
+	{
+		"name":"PERFECT",
+		"TIME": [0,0.2],
+		"INTENSITY": [0,0.2],
+		"DURATION": [0.02,0.02]
+	},
+  	{
+	    "name":"GREAT",
+		"TIME": [0],
+		"INTENSITY": [0.4],
+		"DURATION": [0.02]
+	},
+	{
+	    "name":"GOOD",
+		"TIME": [0],
+		"INTENSITY": [0.4],
+		"DURATION": [0.02]
+	},
+	{
+	    "name":"MISS",
+		"TIME": [0],
+		"INTENSITY": [0.7],
+		"DURATION": [0.02]
+	},
+	{
+	    "name":"SELECTION",
+		"TIME": [0],
+		"INTENSITY": [0.4],
+		"DURATION": [0.02]
+	},
+	{
+	    "name":"STAGE",
+		"TIME": [0,0.2,0.6,0.8],
+		"INTENSITY": [0.5,0.5,0.5,0.5],
+		"DURATION": [0.1,0.1,0.1,0.1]
+	},
+	{
+	    "name":"ABM_LINESEL",
+		"TIME": [0],
+		"INTENSITY": [0.4],
+		"DURATION": [0.02]
+	},
+	{
+	    "name":"GNG_LAUNCH",
+		"TIME": [0,0.2,0.4],
+		"INTENSITY": [0.5,0.5,0.5],
+		"DURATION": [0.1,0.1,0.1]
+	},
+	{
+	    "name":"AAT_SWAP",
+		"TIME": [0],
+		"INTENSITY": [0.4],
+		"DURATION": [0.02]
+	},
+	{
+	    "name":"AAT_ATTACKHIGH",
+		"TIME": [0],
+		"INTENSITY": [0.8],
+		"DURATION": [0.02]
+	},
+	{
+	    "name":"AAT_ATTACKLOW",
+		"TIME": [0],
+		"INTENSITY": [0.4],
+		"DURATION": [0.02]
+	}
+	
+	
+  ]
+}
