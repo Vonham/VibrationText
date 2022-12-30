@@ -73,8 +73,8 @@
 	{
 	    	"name":		"AAT_ATTACKLOW",
 		"TIME":		[	0	],
-		"INTENSITY": 	[	0.4	],
-		"SHARPNESS":	[	0.8	],
+		"INTENSITY": 	[	0.6	],
+		"SHARPNESS":	[	0.6	],
 		"DURATION": 	[	0.02	]
 	}
   ]
